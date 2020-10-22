@@ -1,0 +1,100 @@
+id,shape,carat,cut,color,clarity,depth,table,price($)
+1,princess,0.23,Ideal,E,SI2,61.5,55,326
+2,round,0.21,Premium,E,SI1,59.8,61,326
+3,round,0.23,Good,E,VS1,56.9,65,327
+4,princess,0.29,Premium,I,VS2,62.4,58,334
+5,round,0.31,Good,J,SI2,63.3,58,335
+6,princess,0.24,Very Good,J,VVS2,62.8,57,336
+7,round,0.24,Very Good,I,VVS1,62.3,57,336
+8,princess,0.26,Very Good,H,SI1,61.9,55,337
+9,round,0.22,Fair,E,VS2,65.1,61,337
+10,princess,0.23,Very Good,H,VS1,59.4,61,338
+11,round,0.3,Good,J,SI1,64,55,339
+12,princess,0.23,Ideal,J,VS1,62.8,56,340
+13,princess,0.22,Premium,F,SI1,60.4,61,342
+14,princess,0.31,Ideal,J,SI2,62.2,54,344
+15,princess,0.2,Premium,E,SI2,60.2,62,345
+16,round,0.32,Premium,E,I1,60.9,58,345
+17,princess,0.3,Ideal,I,SI2,62,54,348
+18,round,0.3,Good,J,SI1,63.4,54,351
+19,princess,0.3,Good,J,SI1,63.8,56,351
+20,princess,0.3,Very Good,J,SI1,62.7,59,351
+21,round,0.3,Good,I,SI2,63.3,56,351
+22,round,0.23,Very Good,E,VS2,63.8,55,352
+23,princess,0.23,Very Good,H,VS1,61,57,353
+24,round,0.31,Very Good,J,SI1,59.4,62,353
+25,princess,0.31,Very Good,J,SI1,58.1,62,353
+26,round,0.23,Very Good,G,VVS2,60.4,58,354
+27,princess,0.24,Premium,I,VS1,62.5,57,355
+28,round,0.3,Very Good,J,VS2,62.2,57,357
+29,princess,0.23,Very Good,D,VS2,60.5,61,357
+30,round,0.23,Very Good,F,VS1,60.9,57,357
+31,princess,0.23,Very Good,F,VS1,60,57,402
+32,princess,0.23,Very Good,F,VS1,59.8,57,402
+33,princess,0.23,Very Good,E,VS1,60.7,59,402
+34,princess,0.23,Very Good,E,VS1,59.5,58,402
+35,round,0.23,Very Good,D,VS1,61.9,58,402
+36,princess,0.23,Good,F,VS1,58.2,59,402
+37,round,0.23,Good,E,VS1,64.1,59,402
+38,princess,0.31,Good,H,SI1,64,54,402
+39,princess,0.26,Very Good,D,VS2,60.8,59,403
+40,round,0.33,Ideal,I,SI2,61.8,55,403
+41,round,0.33,Ideal,I,SI2,61.2,56,403
+42,princess,0.33,Ideal,J,SI1,61.1,56,403
+43,round,0.26,Good,D,VS2,65.2,56,403
+44,princess,0.26,Good,D,VS1,58.4,63,403
+45,round,0.32,Good,H,SI2,63.1,56,403
+46,princess,0.29,Premium,F,SI1,62.4,58,403
+47,round,0.32,Very Good,H,SI2,61.8,55,403
+48,princess,0.32,Good,H,SI2,63.8,56,403
+49,round,0.25,Very Good,E,VS2,63.3,60,404
+50,princess,0.29,Very Good,H,SI2,60.7,60,404
+51,princess,0.24,Very Good,F,SI1,60.9,61,404
+52,princess,0.23,Ideal,G,VS1,61.9,54,404
+53,princess,0.32,Ideal,I,SI1,60.9,55,404
+54,round,0.22,Premium,E,VS2,61.6,58,404
+55,princess,0.22,Premium,D,VS2,59.3,62,404
+56,round,0.3,Ideal,I,SI2,61,59,405
+57,princess,0.3,Premium,J,SI2,59.3,61,405
+58,princess,0.3,Very Good,I,SI1,62.6,57,405
+59,round,0.3,Very Good,I,SI1,63,57,405
+60,round,0.3,Good,I,SI1,63.2,55,405
+61,princess,0.35,Ideal,I,VS1,60.9,57,552
+62,round,0.3,Premium,D,SI1,62.6,59,552
+63,princess,0.3,Ideal,D,SI1,62.5,57,552
+64,round,0.3,Ideal,D,SI1,62.1,56,552
+65,princess,0.42,Premium,I,SI2,61.5,59,552
+66,round,0.28,Ideal,G,VVS2,61.4,56,553
+67,princess,0.32,Ideal,I,VVS1,62,55.3,553
+68,round,0.31,Very Good,G,SI1,63.3,57,553
+69,princess,0.31,Premium,G,SI1,61.8,58,553
+70,princess,0.24,Premium,E,VVS1,60.7,58,553
+71,princess,0.24,Very Good,D,VVS1,61.5,60,553
+72,princess,0.3,Very Good,H,SI1,63.1,56,554
+73,round,0.3,Premium,H,SI1,62.9,59,554
+74,princess,0.3,Premium,H,SI1,62.5,57,554
+75,round,0.3,Good,H,SI1,63.7,57,554
+76,princess,0.26,Very Good,F,VVS2,59.2,60,554
+77,princess,0.26,Very Good,E,VVS2,59.9,58,554
+78,round,0.26,Very Good,D,VVS2,62.4,54,554
+79,round,0.26,Very Good,D,VVS2,62.8,60,554
+80,princess,0.26,Very Good,E,VVS1,62.6,59,554
+81,round,0.26,Very Good,E,VVS1,63.4,59,554
+82,princess,0.26,Very Good,D,VVS1,62.1,60,554
+83,round,0.26,Ideal,E,VVS2,62.9,58,554
+84,princess,0.38,Ideal,I,SI2,61.6,56,554
+85,round,0.26,Good,E,VVS1,57.9,60,554
+86,princess,0.24,Premium,G,VVS1,62.3,59,554
+87,round,0.24,Premium,H,VVS1,61.2,58,554
+88,princess,0.24,Premium,H,VVS1,60.8,59,554
+89,princess,0.24,Premium,H,VVS2,60.7,58,554
+90,princess,0.32,Premium,I,SI1,62.9,58,554
+91,princess,0.7,Ideal,E,SI1,62.5,57,2757
+92,round,0.86,Fair,E,SI2,55.1,69,2757
+93,princess,0.7,Ideal,G,VS2,61.6,56,2757
+94,round,0.71,Very Good,E,VS2,62.4,57,2759
+95,princess,0.78,Very Good,G,SI2,63.8,56,2759
+96,princess,0.7,Good,E,VS2,57.5,58,2759
+97,round,0.7,Good,F,VS1,59.4,62,2759
+98,round,0.96,Fair,F,SI2,66.3,62,2759
+99,princess,0.73,Very Good,E,SI1,61.6,59,2760

@@ -1,0 +1,58 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- company
+- contact
+- careers
+- category
+- job_application_process
+- bot_challenge
+
+responses:
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_company:
+  - text: Supreme gems is and industries. We manufacture different types of diamonds.
+  utter_contact:
+  - text: Contact us at this number 9087654321.
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - buttons:
+    - payload: information about supreme gems
+      title: About us
+    - payload: hhow to apply for job
+      title: Careers
+    text: Hey! How are you?
+  utter_application:
+    - text: to apply in our compnay there is a process for it so give us your email we will send you the whole process.
+  utter_show_categories:
+  - text: "The departments which are vacant are as follows: \nAdmin \nAccounts"
+  utter_happy:
+  - text: Great, carry on!
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_company
+- utter_contact
+- buy_polished_diamonds
+- information
+- information_pd
+- order_polished_diamonds
+- utter_application
+- utter_show_categories
+- send_mail
+- send_process_mail
