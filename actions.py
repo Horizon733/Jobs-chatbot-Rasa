@@ -33,7 +33,7 @@ class AppliactionMail(Action):
         messages = []
         user_input = str((tracker.latest_message)['text'])
         user_input = user_input.replace(" ", "")
-        messages = "The process is "+"\n1. You will have to send us your resume on careers@supremegems.in\n2. We will evaluate you and check the eligibility\n3. We will arrange an interview \4. Reach you out about the results"
+        messages = "The process is "+"\n1. You will have to send us your resume on careers@diamondgems.in\n2. We will evaluate you and check the eligibility\n3. We will arrange an interview \4. Reach you out about the results"
         try:
             fromadd = '@gmail.com'
             toadd = user_input
